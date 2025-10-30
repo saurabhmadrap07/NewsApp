@@ -1,4 +1,4 @@
-# Project-2 News App
+# News App
 
 This is a simple news application that allows users to read news articles from various sources.
 
